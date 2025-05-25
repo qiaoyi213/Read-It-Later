@@ -1,0 +1,23 @@
+{
+  "name": "read-it-later",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/qiaoyi213/Read-It-Later#readme",
+  "bugs": {
+    "url": "https://github.com/qiaoyi213/Read-It-Later/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiaoyi213/Read-It-Later.git"
+  },
+  "license": "MIT",
+  "author": "Qiao-Yi Lin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0"
+  }
+}

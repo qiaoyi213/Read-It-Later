@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Read It Later",
+    "version": "0.0.1",
+    "description": "An open-source tool for saving article.",
+    "icons": {
+        "16": "imgs/icon.png",
+        "48": "imgs/icon.png",
+        "128": "imgs/icon.png"
+    },
+    "action": {
+        "default_icon": "imgs/icon.png",
+        "default_title": "Read It Later!",
+        "default_popup": "src/popup.html"
+    }
+}
